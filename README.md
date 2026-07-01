@@ -192,8 +192,8 @@ images/dashboard.png
 
 **Pratham Patil**
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: *((https://www.linkedin.com/in/pratham-patil-550b3b2b1/))*
 
-GitHub: *(Add your GitHub URL)*
+
 
 ---
